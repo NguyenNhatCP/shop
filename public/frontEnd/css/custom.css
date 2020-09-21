@@ -1,0 +1,9 @@
+/*Custom css*/
+
+h1.title_name {
+    padding: 10px;
+    text-align: center;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    color: #8e96a3;
+    -ms-flex-item-align: center;
+}
